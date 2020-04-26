@@ -1,0 +1,29 @@
+﻿  Source.cpp
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(20): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(41): warning C4244: +=: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(69): warning C4018: <: несоответствие типов со знаком и без знака
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(70): warning C4018: <: несоответствие типов со знаком и без знака
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(71): warning C4018: <: несоответствие типов со знаком и без знака
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(102): warning C4018: <: несоответствие типов со знаком и без знака
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(104): warning C4018: <: несоответствие типов со знаком и без знака
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(127): warning C4018: <: несоответствие типов со знаком и без знака
+d:\learning\vich math\codvid_19\vectors\vectors\source.cpp(144): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+  Vectors.vcxproj -> D:\Learning\Vich Math\CODVID_19\Vectors\Debug\Vectors.exe
